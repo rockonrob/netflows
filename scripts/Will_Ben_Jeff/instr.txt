@@ -1,0 +1,5 @@
+install mysql, download the DB, load the DB into a running mysql server, leave it
+Install python, scipy, numpy, mysql-python
+(if you are using windows, install anaconda 3, on mac you can already install pip, then use pip install -U python scipy nump mysql-python)
+Update everything
+THEN you are ready to start writing. I will be documenting stuff so you can read it easier.
